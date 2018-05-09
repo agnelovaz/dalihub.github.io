@@ -58,8 +58,8 @@ The main DALi concepts are outlined below and followed by tutorials to show DALi
 [ImageView]( ./docs/nui-tutorials/image-view ) <br>
 [TextLabel]( ./docs/nui-tutorials/text-label ) <br>
 [Visuals]( ./docs/nui-tutorials/visuals ) <br>
+[Layouting]( ./docs/nui-tutorials/layouting.md) <br>
 
 ## Tools
 
 [Tracing]( ./docs/tools/tracing ) <br>
-
